@@ -1,0 +1,44 @@
+UserName,First Name,Last Name,Email Address,Company,Country,Subscription,Subscription End Date,Expires(Days),IsPrimary,Number Of SubAccounts
+novelis,Fritz,Gilbert,fritz.gilbert@novelis.com,"Novelis, Inc",US,Silver,5/23/2013,Expired,Yes,0
+solatens,Robert,Wagstaff,Sean.Sarasan@Novelis.com,"Novelis, Inc",US,Silver,2/11/2012,Expired,Yes,0
+fgilbert,,Fritz Gilbert,fritz.gilbert@novelis.com,"Novelis, Inc.",,PlatinumLME,5/1/2007,Expired,Yes,0
+shan.jhamandas@novelis.com,Shan,Jhamandas,shan.jhamandas@novelis.com,Novelis,CA,Silver,1/3/2008,Expired,Yes,0
+Dbennett,David,Bennett,David.bennett@adityabirla.com,"Novelis, Inc",US,Gold,5/23/2010,Expired,Yes,0
+amckee,Andrew,McKee,andrew.mckee@novelis.com,Novelis Inc.,US,PlatinumLME,12/5/2017,Expired,Yes,17
+Daniel.Gargan@novelis.com,Daniel,Gargan,Daniel.Gargan@novelis.com,Novelis Inc.,US,PlatinumLME,8/10/2017,Expired,No,0
+joe.tomolo,Joe,Tomolo,joe.tomolo@novelis.com,Novelis Inc.,US,Silver,2/14/2013,Expired,Yes,0
+dan.bristol,Dan,Bristol,dan.bristol@novelis.com,Novelis Inc.,US,PlatinumLME,8/10/2017,Expired,No,0
+greg.hebblethwaite,Greg,Hebblethwaite,greg.hebblethwaite@novelis.com,Novelis Inc.,US,PlatinumLME,1/1/2038,6681,No,0
+michael.anderson,Michael,Anderson,michael.anderson@novelis.com,Novelis Inc.,US,Gold,1/1/2038,6681,No,0
+Silverio.colalancia,Silverio,Colalancia,Silverio.colalancia@novelis.com,Novelis Inc.,US,PlatinumLME,8/10/2017,Expired,No,0
+jane.leyenealy,Jane,LeyenEaly,jane.leyenealy@novelis.com,Novelis Inc.,US,PlatinumLME,11/17/2018,Expired,No,0
+andrew.mckee,Andrew,Mckee,andrew.mckee@novelis.com,Novelis Inc.,US,PlatinumLME,8/31/2012,Expired,Yes,0
+alex.polgardi,Alex,Polgardi,alex.polgardi@novelis.com,Novelis Inc.,US,PlatinumLME,7/31/2018,Expired,No,0
+jay.langston,Jay,Langston,jay.langston@novelis.com,Novelis Inc.,US,PlatinumLME,10/31/2013,Expired,Yes,0
+steven.noack,Steve,Noack,steven.noack@novelis.com,Novelis Inc.,US,PlatinumLME,1/1/2038,6681,No,0
+ramosd,Diana,Ramos,diana.ramos@novelis.com,Novelis Inc.,US,PlatinumLME,4/11/2017,Expired,No,0
+kerry.ward,Kerry,Ward,kerry.ward@novelis.com,Novelis Inc.,US,PlatinumLME,11/17/2013,Expired,Yes,0
+aaron.christensen@novelis.com,Aaron,Christensen,aaron.christensen@novelis.com,Novelis Inc.,US,PlatinumLME,10/31/2013,Expired,Yes,0
+bdavies,Bob,Davies,bob.davies@novelis.com,Novelis,US,Silver,9/1/2013,Expired,Yes,0
+ShaRee.Hansen,ShaRee,Hansen,ShaRee.Hansen@novelis.com,Novelis Inc.,US,PlatinumLME,10/31/2013,Expired,Yes,0
+helio.lima,Helio,Lima,helio.lima@novelis.com,Novelis MEA Ltd.,AE,Gold,4/2/2014,Expired,Yes,0
+michael.nixon@novelis.com,Michael,Nixon,michael.nixon@novelis.com,Novelis Corp,US,Gold,11/17/2018,Expired,No,0
+novelisnsa,Felipe,Souza,felipe-senra.souza@novelis.com,Novelis do Brasil Ltda.,BR,Gold,1/1/2038,6681,Yes,1
+Cole.Patterson,Cole,Patterson,Cole.Patterson@novelis.com,Novelis Inc.,US,PlatinumLME,4/11/2017,Expired,No,0
+trisha.dooley,Trisha,Dooley,trisha.dooley@novelis.com,Novelis Inc.,US,Gold,1/1/2038,6681,No,0
+juny.james,Juny James,Prakkat,juny.james@novelis.com,Novelis Inc.,US,Gold,1/1/2038,6681,No,0
+gary.gallo,Gary,Gallo,gary.gallo@novelis.com,Novelis Inc.,US,PlatinumLME,1/1/2038,6681,No,0
+felipe-senra.souza@novelis.com,Felipe,Souza,felipe-senra.souza2@novelis.com,Novelis do Brasil Ltda.,BR,PlatinumLME,1/1/2038,6681,No,0
+vanessa.maturana@novelis.com,Vanessa,Maturana,vanessa.maturana@novelis.com,Novelis Inc.,,,6/18/2016,Expired,Yes,0
+Daphne.Rhone@Novelis.com,Daphne,Rhone,Daphne.Rhone@Novelis.com,Novelis,US,PlatinumLME,1/1/2038,6681,No,0
+mauricio.lamon@novelis.com,Mauricio,Lamon,mauricio.lamon@novelis.com,Novelis do Brasil Ltda,,,5/16/2016,Expired,Yes,0
+vanessa.maturana@novelis.adityabirla.com,Vanessa,Maturana,vanessa.maturana@novelis.adityabirla.com,Novelis Inc.,US,Gold,2/2/2018,Expired,Yes,0
+Veronique.fraisse@novelis.adityabirla.com,Véronique,Fraisse,Veronique.fraisse@novelis.adityabirla.com,Novelis Switzerland S.A.,CH,Gold,4/11/2017,Expired,Yes,0
+logan.blackstad@novelis.adityabirla.com,Logan,Blackstad,logan.blackstad@novelis.adityabirla.com,Novelis Inc.,US,PlatinumLME,7/31/2018,Expired,No,0
+Kenneth.Darling@novelis.adityabirla.com,Ken,Darling,Kenneth.Darling@novelis.adityabirla.com,Novelis Inc.,US,PlatinumLME,1/1/2038,6681,No,0
+nick.mize@novelis.com,Nick,Mize,nick.mize@novelis.com,Novelis Inc.,US,Gold,1/1/2038,6681,Yes,0
+aaron.christensen@novelis.adityabirla.com,Aaron,Christensen,aaron.christensen@novelis.adityabirla.com,Novelis Inc.,US,Gold,1/1/2038,6681,Yes,0
+alex.patrus@novelis.adityabirla.com,Alex,Patrus,alex.patrus@novelis.adityabirla.com,Novelis Inc.,US,PlatinumLME,1/1/2038,6681,Yes,0
+hao.zheng@novelis.adityabirla.com,Hao,Zheng,hao.zheng@novelis.adityabirla.com,Novelis Inc.,US,Gold,1/1/2038,6681,Yes,0
+rory.shaffer@novelis.adityabirla.com,Rory,Shaffer,rory.shaffer@novelis.adityabirla.com,Novelis Inc.,US,PlatinumLME,1/1/2038,6681,Yes,0
+Brandon.Bice@novelis.adityabirla.com,Brandon,Bice,Brandon.Bice@novelis.adityabirla.com,Novelis Inc.,US,PlatinumLME,1/1/2038,6681,Yes,0
