@@ -22,12 +22,12 @@
   
   username_element <- remote_driver$findElement(using = "id", value = "Username")
   
-  username_element$sendKeysToElement(list("logan.blackstad@argusmedia.com"))
+  username_element$sendKeysToElement(list("###USERNAME###"))
   
   
   password_element <- remote_driver$findElement(using = "id", value = "Password")
   
-  password_element$sendKeysToElement(list("Atl#30306"))
+  password_element$sendKeysToElement(list("###PASSWORD###"))
   
   login_element <- remote_driver$findElement(using = "id", value = "buttonSubmitLogin")
   login_element$clickElement()
